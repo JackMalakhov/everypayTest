@@ -8,4 +8,4 @@ npm install -g @angular/cli
 cd Everypay
 ng serve --open
 папка сильно большая для загрузки сюда, поэтому ниже ссылка на google.drive
-https://drive.google.com/file/d/1FHgN3-Qf7pK55B27mA2ESqwbeGFLdM8I/view?usp=sharing
+https://drive.google.com/drive/folders/1Yvh8e8cjoBJk_7O1yt6b3pKShWW3HgtD?usp=sharing
